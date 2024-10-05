@@ -1,0 +1,26 @@
+{
+  "prod": {
+    "valid": {
+      "username": "july2024.usha@tekarch.com",
+      "password": "Admin123"
+    },
+    "invalid": {
+      "username": "july2024.usha@tekarch.com",
+      "password": "aaa123"
+    },
+     "null": {
+      "username": " ",
+      "password": " "
+    }
+  },
+  "qa": {
+    "valid": {
+      "username": "july2024.usha@tekarch.com",
+      "password": "Admin123"
+    },
+    "invalid": {
+      "username": "july2024.usha@tekarch.com",
+      "password": "aaaa"
+    }
+  }
+}
